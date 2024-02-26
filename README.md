@@ -41,22 +41,7 @@ knowall UC11L3JDgDQMyH8iolKkVZ4w --json
 
 > Run `knowall --help` for all options!
 
-
-
 <br />
-
-## 🔭 Installation
----
-### Using `cargo` 🦀
-```shell
-cargo install knowall
-```
-
----
-### Using [Nix](https://nixos.org/nix) ❄️
-```shell
-nix-env -iA nixpkgs.knowall
-```
 
 ---
 ### Build it from source 🎯
